@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1526" height="915" viewBox="0 0 1526 915">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcfcff;
+      }
+
+      .cls-2 {
+        fill: rgba(131,101,255,0.45);
+      }
+    </style>
+  </defs>
+  <g id="Group_50" data-name="Group 50" transform="translate(-4393 -4391)">
+    <rect id="Rectangle_90" data-name="Rectangle 90" class="cls-1" width="1526" height="915" transform="translate(4393 4391)"/>
+    <g id="Group_49" data-name="Group 49">
+      <g id="Group_47" data-name="Group 47" transform="translate(-38 -49)">
+        <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5310 5233)"/>
+        <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5382 5233)"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5454 5233)"/>
+        <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5526 5233)"/>
+        <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5598 5233)"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5670 5233)"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5742 5233)"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5814 5233)"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(-829 -768)">
+        <circle id="Ellipse_17-2" data-name="Ellipse 17" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5310 5233)"/>
+        <circle id="Ellipse_18-2" data-name="Ellipse 18" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5382 5233)"/>
+        <circle id="Ellipse_19-2" data-name="Ellipse 19" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5454 5233)"/>
+        <circle id="Ellipse_20-2" data-name="Ellipse 20" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5526 5233)"/>
+        <circle id="Ellipse_21-2" data-name="Ellipse 21" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5598 5233)"/>
+        <circle id="Ellipse_22-2" data-name="Ellipse 22" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5670 5233)"/>
+        <circle id="Ellipse_23-2" data-name="Ellipse 23" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5742 5233)"/>
+        <circle id="Ellipse_24-2" data-name="Ellipse 24" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(5814 5233)"/>
+      </g>
+    </g>
+  </g>
+</svg>
