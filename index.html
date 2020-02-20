@@ -34,6 +34,29 @@
         </div>
         <p>Made by <a href="https://www.appysharma.com">Appy Sharma</a> ❤️</p>
     </footer>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.7.0/firebase-firestore.js"></script>
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyCQph5h99Bs2tCAYZxhRQGTViL7HCfTewI",
+            authDomain: "justjoking-fee13.firebaseapp.com",
+            databaseURL: "https://justjoking-fee13.firebaseio.com",
+            projectId: "justjoking-fee13",
+            storageBucket: "justjoking-fee13.appspot.com",
+            messagingSenderId: "1004666056178",
+            appId: "1:1004666056178:web:b1ff681f652e3c5770cf6b",
+            measurementId: "G-06KRV3NPQV"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
     <script src="app.js"></script>
 </body>
 

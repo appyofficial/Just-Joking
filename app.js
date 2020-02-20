@@ -4,8 +4,12 @@ const joke = document.getElementById('joke');
 const nextJokeButton = document.querySelector('.next-joke-btn');
 const copied = document.querySelector('.copied');
 const darkMode = document.querySelector('.dark-mode-btn');
-
-
+/*firebase*/
+const db = firebase.firestore();
+db.collection('Jokes').get().then(snap => {
+    const doc = snap.docs;
+    doc.map(joke => console.log(joke.data()));
+}).catch(err => console.log(err));
 
 //emojies
 const emojies = ["😀 😂", "😁 🤣", "😂 😄", "🤣 😆", "😃 😄", "😄 😛", "😅 😜", "😆 🤣", "😉 😂", "😛 😉", "😜 😆", "😝 😄"];
